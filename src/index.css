@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(194, 192, 192);
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    background-color: rgb(194, 192, 192);
+}
+
+.main-inner  {
+    background-color: rgb(241, 236, 236);
+    color: white;
+    width: 70vw;
+    text-Align: center;
+}
+.main-inner h1{
+    color:black;
+}
+
+.add_list_button  {
+    color: white;
+    background-Color: green;
+    margin-Left: 10px
+}
+
+.delete_list_btn  {
+    color: white;
+    background-Color: red;
+    margin-Left: 10px
+}
+
+.Show_items  {
+    background-Color: rgb(24, 16, 16);
+    margin-left: 5px;
+    color:white;
+    display: inline-block;
+    width: 350px;
+    margin-Top: 15px;
+    height: 50px;
+    padding: 0px
+}
